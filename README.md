@@ -68,3 +68,6 @@ Each agent maintains its own FAISS index over curated and PubMed-enriched docume
 
 ---
 
+
+© 2025 Ayşenur Dalfidan  
+This project was developed for the Agentic AI Innovation Challenge 2025. All rights reserved.
