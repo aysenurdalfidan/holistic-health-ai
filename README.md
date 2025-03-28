@@ -22,10 +22,10 @@ It demonstrates a structured LLM workflow combining:
 ## Architecture
 
 The assistant uses a multi-agent design:
-- **User Query** →
-- **GPT-3.5** for query categorisation →
-- **Agent per Category** retrieves documents via FAISS + MiniLM embeddings →
-- **Agent-level GPT responses** →
+- **User Query**
+- **GPT-3.5** for query categorisation
+- **Agent per Category** retrieves documents via FAISS + MiniLM embeddings
+- **Agent-level GPT responses**
 - **Synthesis** into a final coherent answer
 
 ---
