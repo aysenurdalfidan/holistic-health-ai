@@ -3,7 +3,6 @@
 An autonomous **multi-agent AI system** that provides evidence-based answers to questions about **functional medicine**, **biohacking**, **detox**, and more. Powered by GPT-3.5, semantic search with FAISS, and PubMed integration.
 
 [![Streamlit App](https://img.shields.io/badge/Try%20Live-Demo-green)](https://holistic-health-assistant.streamlit.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
@@ -29,8 +28,6 @@ The assistant uses a multi-agent design:
 - **Agent-level GPT responses** →
 - **Synthesis** into a final coherent answer
 
-![Architecture](https://huggingface.co/spaces/aysenurd/holistic-health-assistant/raw/main/architecture.png)
-
 ---
 
 ## Categories (Agents)
@@ -53,7 +50,7 @@ Each agent maintains its own FAISS index over curated and PubMed-enriched docume
 
 ## Example Demo Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/aysenurdalfidan/holistic-health-assistant/main/screenshot.png)
+![Screenshot](screenshot.png)
 
 ---
 
